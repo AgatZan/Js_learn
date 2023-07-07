@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Таблицы совеместимости.md",
+                "file": "Таблицы совместимости.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Таблицы совеместимости.md",
+                "file": "Таблицы совместимости.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +103,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Таблицы совеместимости.md",
+                "file": "Таблицы совместимости.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "734694a505acee38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Таблицы совместимости.md"
               }
             }
           },
@@ -116,21 +126,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "734694a505acee38",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Таблицы совеместимости.md"
+                "useHierarchy": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,9 +147,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9e4a95f856611f8e",
+  "active": "161fece31d3a7c02",
   "lastOpenFiles": [
-    "Таблицы совеместимости.md",
+    "Таблицы совместимости.md",
     "Без названия"
   ]
 }
