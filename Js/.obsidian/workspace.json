@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Таблицы совместимости.md",
-                "mode": "preview",
+                "file": "база/Тег script.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Таблицы совместимости.md",
+                "file": "база/Тег script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Таблицы совместимости.md",
+                "file": "база/Тег script.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Таблицы совместимости.md"
+                "file": "база/Тег script.md"
               }
             }
           },
@@ -155,9 +155,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5698d76060d07f81",
+  "active": "aa111790d0267d2f",
   "lastOpenFiles": [
-    "база",
-    "Таблицы совместимости.md"
+    "Таблицы совместимости.md",
+    "база/Тег script.md",
+    "база"
   ]
 }
