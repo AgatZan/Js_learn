@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "use strict.md",
-                "mode": "preview",
+                "file": "Типы данных.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "use strict.md",
+                "file": "Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "use strict.md",
+                "file": "Типы данных.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "use strict.md"
+                "file": "Типы данных.md"
               }
             }
           },
@@ -157,11 +157,13 @@
   },
   "active": "aa111790d0267d2f",
   "lastOpenFiles": [
+    "use strict.md",
+    "Типы данных.md",
+    "Без названия",
     "ограничения наименования переменных.md",
     "Объявление переменной.md",
     "ограничения.md",
     "Таблицы совместимости.md",
-    "use strict.md",
     "база/Тег script.md",
     "база"
   ]
