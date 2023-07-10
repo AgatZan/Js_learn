@@ -13,14 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Преобразование типов.md",
+                "file": "Типы данных.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "dc24767bd3e465e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Типы данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Преобразование типов.md",
+                "file": "Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Преобразование типов.md",
+                "file": "Типы данных.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Преобразование типов.md"
+                "file": "Типы данных.md"
               }
             }
           },
@@ -155,16 +168,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "aa111790d0267d2f",
+  "active": "dc24767bd3e465e9",
   "lastOpenFiles": [
+    "Математические операции.md",
     "Типы данных.md",
+    "Таблицы совместимости.md",
+    "Объявление переменной.md",
+    "ограничения наименования переменных.md",
     "Преобразование типов.md",
     "use strict.md",
     "Без названия",
-    "ограничения наименования переменных.md",
-    "Объявление переменной.md",
     "ограничения.md",
-    "Таблицы совместимости.md",
     "база/Тег script.md",
     "база"
   ]
