@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ограничения наименования переменных.md",
-                "mode": "source",
+                "file": "use strict.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ограничения наименования переменных.md",
+                "file": "use strict.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ограничения наименования переменных.md",
+                "file": "use strict.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ограничения наименования переменных.md"
+                "file": "use strict.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "aa111790d0267d2f",
   "lastOpenFiles": [
-    "Объявление переменной.md",
     "ограничения наименования переменных.md",
+    "Объявление переменной.md",
     "ограничения.md",
     "Таблицы совместимости.md",
     "use strict.md",
