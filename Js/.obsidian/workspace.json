@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Объявление переменной.md",
-                "mode": "preview",
+                "file": "ограничения наименования переменных.md",
+                "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Объявление переменной.md",
+                "file": "ограничения наименования переменных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Объявление переменной.md",
+                "file": "ограничения наименования переменных.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Объявление переменной.md"
+                "file": "ограничения наименования переменных.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "aa111790d0267d2f",
   "lastOpenFiles": [
-    "Таблицы совместимости.md",
     "Объявление переменной.md",
     "ограничения наименования переменных.md",
     "ограничения.md",
+    "Таблицы совместимости.md",
     "use strict.md",
     "база/Тег script.md",
     "база"
