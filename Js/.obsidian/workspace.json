@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Объявление переменной.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -157,11 +157,12 @@
   },
   "active": "aa111790d0267d2f",
   "lastOpenFiles": [
-    "ограничения.md",
+    "Таблицы совместимости.md",
     "Объявление переменной.md",
+    "ограничения наименования переменных.md",
+    "ограничения.md",
     "use strict.md",
     "база/Тег script.md",
-    "Таблицы совместимости.md",
     "база"
   ]
 }
