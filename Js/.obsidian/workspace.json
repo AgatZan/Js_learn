@@ -129,9 +129,17 @@
                 "useHierarchy": false
               }
             }
+          },
+          {
+            "id": "664d7baf772ef387",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -147,7 +155,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "161fece31d3a7c02",
+  "active": "664d7baf772ef387",
   "lastOpenFiles": [
     "Таблицы совместимости.md",
     "Без названия"
