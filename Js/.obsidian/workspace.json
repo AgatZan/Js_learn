@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Типы данных.md",
+                "file": "Преобразование типов.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Типы данных.md",
+                "file": "Преобразование типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Типы данных.md",
+                "file": "Преобразование типов.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Типы данных.md"
+                "file": "Преобразование типов.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "aa111790d0267d2f",
   "lastOpenFiles": [
-    "use strict.md",
     "Типы данных.md",
+    "Преобразование типов.md",
+    "use strict.md",
     "Без названия",
     "ограничения наименования переменных.md",
     "Объявление переменной.md",
