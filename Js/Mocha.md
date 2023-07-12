@@ -3,13 +3,20 @@
 ```js
 describe ("pow", function() {  
   
-it("возводит в степень n", function() {  
-assert.equal(pow(2, 3), 8);  
-});  
+function makeTest(x) {  
+	let expected = x * x * x;
+	  
+	it(`${x} в степени 3 будет ${expected}`, function() {
+	  
+	assert.equal(pow(x, 3), expected);  
+	});  
+}  
   
+for (let x = 1; x <= 5; x++) {  
+makeTest(x);  
+}  
 });
 ```
-
 
 
 ### Какую функциональность мы описываем.
@@ -30,6 +37,8 @@ it("описание", function() { ... })
 Важно, каждый тест в отдельном it, так как если падает его часть, то падает весь it 
 
 ### Функция проверки
+
+Является функцией библиотеки [[Chai]]
 
 ```js
 assert.equal(value1, value2)

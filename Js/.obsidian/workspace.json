@@ -63,7 +63,7 @@
               "type": "markdown",
               "state": {
                 "file": "Mocha.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -206,10 +206,11 @@
   },
   "active": "dd1c540b7ac82127",
   "lastOpenFiles": [
-    "Стрелочная функция.md",
-    "Mocha.md",
-    "Function Expression.md",
+    "Chai.md",
     "Function Declaration.md",
+    "Mocha.md",
+    "Стрелочная функция.md",
+    "Function Expression.md",
     "callback функции.md",
     "Логические операторы.md",
     "Логические операции.md",
