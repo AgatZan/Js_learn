@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Функции.md",
+                "file": "Function Declaration.md",
                 "mode": "source",
                 "source": true
               }
@@ -50,8 +50,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Функции.md",
-                "mode": "preview",
+                "file": "Стрелочная функция.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Функции.md",
+                "file": "Стрелочная функция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Функции.md",
+                "file": "Стрелочная функция.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Функции.md"
+                "file": "Стрелочная функция.md"
               }
             }
           },
@@ -195,7 +195,8 @@
   "active": "728959aca568fab2",
   "lastOpenFiles": [
     "Function Expression.md",
-    "Функции.md",
+    "Стрелочная функция.md",
+    "Function Declaration.md",
     "callback функции.md",
     "Логические операторы.md",
     "Логические операции.md",

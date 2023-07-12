@@ -1,3 +1,4 @@
+Блочная область видимости.
 ```js
 function name(params…){
 body_fuction;
