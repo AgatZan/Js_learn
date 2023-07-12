@@ -50,8 +50,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "callback функции.md",
-                "mode": "source",
+                "file": "Function Expression.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "callback функции.md",
+                "file": "Function Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "callback функции.md",
+                "file": "Function Expression.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "callback функции.md"
+                "file": "Function Expression.md"
               }
             }
           },
