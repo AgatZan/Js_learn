@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Типы данных.md",
+                "file": "база/Типы данных.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Типы данных.md",
+                "file": "база/Типы данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Function Declaration.md",
+                "file": "база/Функции/Function Declaration.md",
                 "mode": "source",
                 "source": true
               }
@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Стрелочная функция.md",
+                "file": "база/Функции/Стрелочная функция.md",
                 "mode": "preview",
                 "source": true
               }
@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mocha.md",
+                "file": "база/Преобразование типов.md",
                 "mode": "source",
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mocha.md",
+                "file": "база/Преобразование типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mocha.md",
+                "file": "база/Преобразование типов.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mocha.md"
+                "file": "база/Преобразование типов.md"
               }
             }
           },
@@ -206,24 +206,25 @@
   },
   "active": "dd1c540b7ac82127",
   "lastOpenFiles": [
-    "Function Expression.md",
-    "Chai.md",
-    "Mocha.md",
-    "Function Declaration.md",
-    "Стрелочная функция.md",
-    "callback функции.md",
-    "Логические операторы.md",
-    "Логические операции.md",
-    "Преобразование типов.md",
-    "Таблицы совместимости.md",
-    "Типы данных.md",
-    "Математические операторы.md",
-    "ограничения наименования переменных.md",
-    "Объявление переменной.md",
-    "use strict.md",
-    "Без названия",
-    "ограничения.md",
     "база/Тег script.md",
+    "база/Функции",
+    "Тестирование",
+    "Тестирование/Mocha.md",
+    "база/Функции/Function Expression.md",
+    "Тестирование/Chai.md",
+    "база/Функции/Function Declaration.md",
+    "база/Функции/Стрелочная функция.md",
+    "база/callback функции.md",
+    "база/Логические операторы.md",
+    "база/Функции/Логические операции.md",
+    "база/Преобразование типов.md",
+    "Таблицы совместимости.md",
+    "база/Типы данных.md",
+    "база/Функции/Математические операторы.md",
+    "база/ограничения наименования переменных.md",
+    "база/Функции/Объявление переменной.md",
+    "база/use strict.md",
+    "ограничения.md",
     "база"
   ]
 }
