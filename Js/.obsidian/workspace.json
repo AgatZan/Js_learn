@@ -55,9 +55,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "dd1c540b7ac82127",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mocha.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Стрелочная функция.md",
+                "file": "Mocha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Стрелочная функция.md",
+                "file": "Mocha.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Стрелочная функция.md"
+                "file": "Mocha.md"
               }
             }
           },
@@ -192,10 +204,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "728959aca568fab2",
+  "active": "dd1c540b7ac82127",
   "lastOpenFiles": [
-    "Function Expression.md",
     "Стрелочная функция.md",
+    "Mocha.md",
+    "Function Expression.md",
     "Function Declaration.md",
     "callback функции.md",
     "Логические операторы.md",
