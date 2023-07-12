@@ -1,13 +1,11 @@
-## Быстрый пример
+## <h2 style='text-align:center'>Быстрый пример</p>
 
 ```js
 describe ("pow", function() {  
   
 function makeTest(x) {  
 	let expected = x * x * x;
-	  
-	it(`${x} в степени 3 будет ${expected}`, function() {
-	  
+	it(`${x} в степени 3 будет ${expected}`, function() {  
 	assert.equal(pow(x, 3), expected);  
 	});  
 }  
@@ -43,7 +41,7 @@ it("описание", function() { ... })
 ```js
 assert.equal(value1, value2)
 ```
-
+<p style="text-align:center">Быстрый пример</p>
 value1 - получаемый результат
 value2 - желаемый результат
 
