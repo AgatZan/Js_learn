@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Функции/Полифил.md",
+                "file": "база/Объект.md",
                 "mode": "source",
                 "source": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Функции/Полифил.md",
+                "file": "база/Объект.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Функции/Полифил.md",
+                "file": "база/Объект.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Функции/Полифил.md"
+                "file": "база/Объект.md"
               }
             }
           },
@@ -204,10 +204,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "dd1c540b7ac82127",
+  "active": "5698d76060d07f81",
   "lastOpenFiles": [
-    "база/Функции/Транспилер.md",
+    "Методы объекта this.md",
+    "база/Объект.md",
     "база/Функции/Полифил.md",
+    "база/Функции/Транспилер.md",
     "база/use strict.md",
     "база/callback функции.md",
     "база/Типы данных.md",
