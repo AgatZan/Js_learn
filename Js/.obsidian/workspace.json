@@ -67,9 +67,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "097f44792052e44c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "for in.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Объект.md",
+                "file": "for in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Объект.md",
+                "file": "for in.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Объект.md"
+                "file": "for in.md"
               }
             }
           },
@@ -204,11 +216,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "dd1c540b7ac82127",
+  "active": "097f44792052e44c",
   "lastOpenFiles": [
+    "база/Объект.md",
+    "for in.md",
     "база/Примитивный тип данных.md",
     "база/Типы данных.md",
-    "база/Объект.md",
     "база/Тег script.md",
     "Методы объекта this.md",
     "база/Функции/Полифил.md",
