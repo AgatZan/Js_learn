@@ -76,7 +76,7 @@
               "state": {
                 "file": "for in.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
