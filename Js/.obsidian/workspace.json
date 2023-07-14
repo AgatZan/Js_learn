@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Клонирование объектов.md",
+                "file": "Остаточный оператор.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Клонирование объектов.md",
+                "file": "Остаточный оператор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Клонирование объектов.md",
+                "file": "Остаточный оператор.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Клонирование объектов.md"
+                "file": "Остаточный оператор.md"
               }
             }
           },
@@ -218,8 +218,9 @@
   },
   "active": "097f44792052e44c",
   "lastOpenFiles": [
-    "база/Объект.md",
     "Клонирование объектов.md",
+    "Остаточный оператор.md",
+    "база/Объект.md",
     "база/Примитивный тип данных.md",
     "база/Типы данных.md",
     "for in.md",
