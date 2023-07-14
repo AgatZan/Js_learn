@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "for in.md",
+                "file": "база/Примитивный тип данных.md",
                 "mode": "source",
                 "source": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "for in.md",
+                "file": "база/Примитивный тип данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "for in.md",
+                "file": "база/Примитивный тип данных.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "for in.md"
+                "file": "база/Примитивный тип данных.md"
               }
             }
           },
@@ -219,9 +219,9 @@
   "active": "097f44792052e44c",
   "lastOpenFiles": [
     "база/Объект.md",
+    "база/Типы данных.md",
     "for in.md",
     "база/Примитивный тип данных.md",
-    "база/Типы данных.md",
     "база/Тег script.md",
     "Методы объекта this.md",
     "база/Функции/Полифил.md",
