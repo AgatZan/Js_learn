@@ -100,7 +100,7 @@
               "state": {
                 "file": "база/Псевдомассив.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -240,7 +240,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5698d76060d07f81",
+  "active": "c21167f24779c5a8",
   "lastOpenFiles": [
     "Оператор расширения.md",
     "база/Псевдомассив.md",
