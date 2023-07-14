@@ -75,13 +75,25 @@
               "type": "markdown",
               "state": {
                 "file": "Оператор расширения.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "df63e43a150b71f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Оператор расширения.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -216,9 +228,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "097f44792052e44c",
+  "active": "df63e43a150b71f6",
   "lastOpenFiles": [
     "Остаточный оператор.md",
+    "for of.md",
     "Оператор расширения.md",
     "Клонирование объектов.md",
     "база/Объект.md",
@@ -245,7 +258,6 @@
     "Таблицы совместимости.md",
     "база/Функции/Математические операторы.md",
     "база/Функции/Объявление переменной.md",
-    "ограничения.md",
     "база"
   ]
 }
