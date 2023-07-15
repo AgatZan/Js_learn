@@ -98,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Псевдомассив.md",
+                "file": "Клонирование объектов.md",
                 "mode": "preview",
                 "source": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Псевдомассив.md",
+                "file": "Клонирование объектов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Псевдомассив.md",
+                "file": "Клонирование объектов.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Псевдомассив.md"
+                "file": "Клонирование объектов.md"
               }
             }
           },
@@ -240,8 +240,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5698d76060d07f81",
+  "active": "c21167f24779c5a8",
   "lastOpenFiles": [
+    "база/Типы данных.md",
     "Оператор расширения.md",
     "база/Псевдомассив.md",
     "Остаточный оператор.md",
@@ -249,7 +250,6 @@
     "Клонирование объектов.md",
     "база/Объект.md",
     "база/Примитивный тип данных.md",
-    "база/Типы данных.md",
     "for in.md",
     "база/Тег script.md",
     "Методы объекта this.md",
