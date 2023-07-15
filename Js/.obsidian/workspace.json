@@ -8,116 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa111790d0267d2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "база/Типы данных.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dc24767bd3e465e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "база/Типы данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "747cde32ea9a3d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "база/Функции/Function Declaration.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "728959aca568fab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "база/Функции/Стрелочная функция.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dd1c540b7ac82127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "база/Объект.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "097f44792052e44c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Оператор расширения.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "df63e43a150b71f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Оператор расширения.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c21167f24779c5a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "база/Преобразование типов.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "42674f65763580f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Объект.md",
+                "file": "new.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Объект.md",
+                "file": "new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Объект.md",
+                "file": "new.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Объект.md"
+                "file": "new.md"
               }
             }
           },
@@ -254,6 +156,7 @@
   },
   "active": "42674f65763580f1",
   "lastOpenFiles": [
+    "база/Объект.md",
     "new.md",
     "база/Преобразование типов.md",
     "база/Функции/Стрелочная функция.md",
@@ -266,7 +169,6 @@
     "база/Псевдомассив.md",
     "Остаточный оператор.md",
     "for of.md",
-    "база/Объект.md",
     "база/Примитивный тип данных.md",
     "for in.md",
     "база/Тег script.md",
