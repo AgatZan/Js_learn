@@ -98,9 +98,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "this.md",
-                "mode": "source",
-                "source": true
+                "file": "база/Функции/Стрелочная функция.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "this.md",
+                "file": "база/Функции/Стрелочная функция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "this.md",
+                "file": "база/Функции/Стрелочная функция.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "this.md"
+                "file": "база/Функции/Стрелочная функция.md"
               }
             }
           },
@@ -242,6 +242,9 @@
   },
   "active": "c21167f24779c5a8",
   "lastOpenFiles": [
+    "Тестирование/Mocha.md",
+    "база/Функции/Function Declaration.md",
+    "this.md",
     "Клонирование объектов.md",
     "база/Типы данных.md",
     "Оператор расширения.md",
@@ -252,7 +255,6 @@
     "база/Примитивный тип данных.md",
     "for in.md",
     "база/Тег script.md",
-    "this.md",
     "база/Полифил.md",
     "база/Транспилер.md",
     "база/use strict.md",
@@ -262,10 +264,8 @@
     "база/ограничения наименования переменных.md",
     "база/Функции",
     "Тестирование",
-    "Тестирование/Mocha.md",
     "база/Функции/Function Expression.md",
     "Тестирование/Chai.md",
-    "база/Функции/Function Declaration.md",
     "база/Функции/Стрелочная функция.md",
     "база/Функции/Логические операции.md",
     "Таблицы совместимости.md",
