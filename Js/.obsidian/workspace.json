@@ -110,9 +110,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "new.md",
+                "file": "база/Объект.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new.md",
+                "file": "база/Объект.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new.md",
+                "file": "база/Объект.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new.md"
+                "file": "база/Объект.md"
               }
             }
           },
@@ -254,8 +254,8 @@
   },
   "active": "42674f65763580f1",
   "lastOpenFiles": [
-    "база/Преобразование типов.md",
     "new.md",
+    "база/Преобразование типов.md",
     "база/Функции/Стрелочная функция.md",
     "Тестирование/Mocha.md",
     "база/Функции/Function Declaration.md",
