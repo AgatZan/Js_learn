@@ -98,8 +98,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Клонирование объектов.md",
-                "mode": "preview",
+                "file": "this.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Клонирование объектов.md",
+                "file": "this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Клонирование объектов.md",
+                "file": "this.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Клонирование объектов.md"
+                "file": "this.md"
               }
             }
           },
@@ -242,17 +242,17 @@
   },
   "active": "c21167f24779c5a8",
   "lastOpenFiles": [
+    "Клонирование объектов.md",
     "база/Типы данных.md",
     "Оператор расширения.md",
     "база/Псевдомассив.md",
     "Остаточный оператор.md",
     "for of.md",
-    "Клонирование объектов.md",
     "база/Объект.md",
     "база/Примитивный тип данных.md",
     "for in.md",
     "база/Тег script.md",
-    "Методы объекта this.md",
+    "this.md",
     "база/Полифил.md",
     "база/Транспилер.md",
     "база/use strict.md",
