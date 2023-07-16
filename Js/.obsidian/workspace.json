@@ -45,14 +45,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Symbol.toPrimitive.md",
+                "file": "Преобразования объекта в примитивные типы.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91ae07edfd00b552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "база/Хинт.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Symbol.toPrimitive.md",
+                "file": "база/Хинт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Symbol.toPrimitive.md",
+                "file": "база/Хинт.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Symbol.toPrimitive.md"
+                "file": "база/Хинт.md"
               }
             }
           },
@@ -187,14 +199,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9817479e2d0d3222",
+  "active": "5698d76060d07f81",
   "lastOpenFiles": [
-    "база/Транспилер.md",
-    "Symbol.toPrimitive.md",
     "Преобразования объекта в примитивные типы.md",
+    "база/Хинт.md",
+    "база/Symbol.toPrimitive.md",
+    "Symbol.md",
+    "база/Транспилер.md",
     "база/Примитивный тип данных.md",
     "база/Объект.md",
-    "Symbol.md",
     "база/Типы данных.md",
     "for in.md",
     "Опциональная цепочка вопр..md",
@@ -214,7 +227,6 @@
     "база/use strict.md",
     "база/callback функции.md",
     "база/Логические операторы.md",
-    "база/ограничения наименования переменных.md",
     "база/Функции",
     "Тестирование",
     "база"
