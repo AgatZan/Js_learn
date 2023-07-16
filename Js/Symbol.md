@@ -21,5 +21,16 @@
 
 ```js
 let sym = Symbol.for("name");
-
+alert( Symbol.keyFor(sym) ); // name, тоже самое, что .description у неглобальных
 ```
+
+
+Существует множество «системных» символов, использующихся внутри самого JavaScript, и мы можем использовать их, чтобы настраивать различные аспекты поведения объектов.
+
+Эти символы перечислены в спецификации в таблице [Well-known symbols](https://tc39.github.io/ecma262/#sec-well-known-symbols):
+
+- `Symbol.hasInstance`
+- `Symbol.isConcatSpreadable`
+- `Symbol.iterator`
+- `Symbol.toPrimitive`
+- …и так далее.
