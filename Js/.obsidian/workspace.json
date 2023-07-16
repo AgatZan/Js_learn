@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "for in.md",
+                "file": "база/Типы данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "for in.md",
+                "file": "база/Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "for in.md",
+                "file": "база/Типы данных.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "for in.md"
+                "file": "база/Типы данных.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "d95c193b028d01b5",
   "lastOpenFiles": [
+    "for in.md",
     "база/Типы данных.md",
     "Опциональная цепочка вопр..md",
     "new.md",
@@ -180,7 +181,6 @@
     "Остаточный оператор.md",
     "for of.md",
     "база/Примитивный тип данных.md",
-    "for in.md",
     "база/Тег script.md",
     "база/Полифил.md",
     "база/Транспилер.md",
