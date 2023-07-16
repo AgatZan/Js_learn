@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Хинт.md",
+                "file": "Преобразования объекта в примитивные типы.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Хинт.md",
+                "file": "Преобразования объекта в примитивные типы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Хинт.md",
+                "file": "Преобразования объекта в примитивные типы.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Хинт.md"
+                "file": "Преобразования объекта в примитивные типы.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "91ae07edfd00b552",
   "lastOpenFiles": [
-    "Преобразования объекта в примитивные типы.md",
     "база/Хинт.md",
+    "Преобразования объекта в примитивные типы.md",
     "база/Symbol.toPrimitive.md",
     "Symbol.md",
     "база/Транспилер.md",
