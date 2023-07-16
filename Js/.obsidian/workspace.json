@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Типы данных.md",
+                "file": "for in.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Типы данных.md",
+                "file": "for in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Типы данных.md",
+                "file": "for in.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Типы данных.md"
+                "file": "for in.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "d95c193b028d01b5",
   "lastOpenFiles": [
+    "база/Типы данных.md",
     "Опциональная цепочка вопр..md",
     "new.md",
     "база/Объект.md",
@@ -174,7 +175,6 @@
     "база/Функции/Function Declaration.md",
     "this.md",
     "Клонирование объектов.md",
-    "база/Типы данных.md",
     "Оператор расширения.md",
     "база/Псевдомассив.md",
     "Остаточный оператор.md",
