@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Типы данных.md",
+                "file": "Symbol.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Типы данных.md",
+                "file": "Symbol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Типы данных.md",
+                "file": "Symbol.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Типы данных.md"
+                "file": "Symbol.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "d95c193b028d01b5",
   "lastOpenFiles": [
-    "for in.md",
     "база/Типы данных.md",
+    "Symbol.md",
+    "for in.md",
     "Опциональная цепочка вопр..md",
     "new.md",
     "база/Объект.md",
@@ -192,7 +193,6 @@
     "Тестирование",
     "база/Функции/Function Expression.md",
     "Тестирование/Chai.md",
-    "база/Функции/Логические операции.md",
     "база"
   ]
 }
