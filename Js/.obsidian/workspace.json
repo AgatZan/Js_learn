@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Типы данных.md",
+                "file": "for of.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Типы данных.md",
+                "file": "for of.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Типы данных.md",
+                "file": "for of.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Типы данных.md"
+                "file": "for of.md"
               }
             }
           },
@@ -213,6 +213,7 @@
   },
   "active": "0695cc292d0ae15b",
   "lastOpenFiles": [
+    "база/Типы данных.md",
     "Б Методы работы с Number.md",
     "база/Логические операторы.md",
     "база/Примитивный тип данных.md",
@@ -222,7 +223,6 @@
     "Symbol.md",
     "база/Транспилер.md",
     "база/Объект.md",
-    "база/Типы данных.md",
     "for in.md",
     "Опциональная цепочка вопр..md",
     "new.md",
