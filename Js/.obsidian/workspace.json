@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с Number.md",
+                "file": "база/Типы данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с Number.md",
+                "file": "база/Типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с Number.md",
+                "file": "база/Типы данных.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с Number.md"
+                "file": "база/Типы данных.md"
               }
             }
           },
@@ -213,8 +213,8 @@
   },
   "active": "0695cc292d0ae15b",
   "lastOpenFiles": [
-    "база/Логические операторы.md",
     "Б Методы работы с Number.md",
+    "база/Логические операторы.md",
     "база/Примитивный тип данных.md",
     "Преобразования объекта в примитивные типы.md",
     "база/Хинт.md",
