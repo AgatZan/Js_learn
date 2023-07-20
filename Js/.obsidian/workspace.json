@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Протоколы перебора.md",
+                "file": "for in.md",
                 "mode": "source",
                 "source": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Протоколы перебора.md",
+                "file": "for in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Протоколы перебора.md",
+                "file": "for in.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Протоколы перебора.md"
+                "file": "for in.md"
               }
             }
           },
@@ -225,8 +225,8 @@
   },
   "active": "1f70af09daa3e00d",
   "lastOpenFiles": [
-    "for of.md",
     "база/Протоколы перебора.md",
+    "for of.md",
     "база/Типы данных.md",
     "Б Методы работы с Number.md",
     "база/Логические операторы.md",
