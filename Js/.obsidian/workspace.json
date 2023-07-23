@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "for in.md",
-                "mode": "preview",
+                "file": "база/Преобразование типов.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "for in.md",
+                "file": "база/Преобразование типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "for in.md",
+                "file": "база/Преобразование типов.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "for in.md"
+                "file": "база/Преобразование типов.md"
               }
             }
           },
@@ -168,11 +168,11 @@
   },
   "active": "1f70af09daa3e00d",
   "lastOpenFiles": [
-    "Наследование через прототип.md",
+    "база/Типы данных.md",
     "for in.md",
+    "Наследование через прототип.md",
     "база/Протоколы перебора.md",
     "for of.md",
-    "база/Типы данных.md",
     "Б Методы работы с Number.md",
     "база/Логические операторы.md",
     "база/Примитивный тип данных.md",
