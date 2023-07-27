@@ -10,5 +10,8 @@
 - `str.startsWith(substr)` - проверяет начало на сходство с substr
 - `str.endsWith(substr)` - проверяет конец на сходство с substr
 - `str.slice(start , end)` - получить подстроку начиная с старт и кончая енд-1
+	- отр = с конца
 - `str.substring(start , end)` - если старт больше енд, они меняются
-- `str.substr(start, length)` -
+	- отр = не поддерживается
+- `str.substr(start, length)` - указывается длина
+	- отр = с конца
