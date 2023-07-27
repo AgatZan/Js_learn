@@ -6,3 +6,5 @@
 - `str.indexOf` - поиск подстроки:
 	- `(substr, pos)` -Он ищет подстроку `substr` в строке `str`, начиная с позиции `pos`, и возвращает позицию, на которой располагается совпадение, либо `-1` при отсутствии совпадений.
 - `str.lastIndexOf(substr, position)` - ищет с конца
+- `str.includes(substr, position)` - возвращает bool
+- `str.startsWith(substr)` - проверяет начало на сходство с 
