@@ -8,4 +8,4 @@
 - `str.lastIndexOf(substr, position)` - ищет с конца
 - `str.includes(substr, position)` - возвращает bool
 - `str.startsWith(substr)` - проверяет начало на сходство с substr
-- `str.startsWith(substr)` - проверяет начало на сходство с substr
+- `str.endsWith(substr)` - проверяет конец на сходство с substr
