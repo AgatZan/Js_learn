@@ -9,3 +9,4 @@
 - `str.includes(substr, position)` - возвращает bool
 - `str.startsWith(substr)` - проверяет начало на сходство с substr
 - `str.endsWith(substr)` - проверяет конец на сходство с substr
+- `str.slice(start , end)` - получить подстроку начиная с старт и кончая енд
