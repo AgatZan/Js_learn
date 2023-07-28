@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Преобразования объекта в примитивные типы.md",
+                "file": "Б Методы работы с  Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Преобразования объекта в примитивные типы.md",
+                "file": "Б Методы работы с  Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Преобразования объекта в примитивные типы.md",
+                "file": "Б Методы работы с  Array.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Преобразования объекта в примитивные типы.md"
+                "file": "Б Методы работы с  Array.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "44bcc872eb2d821f",
   "lastOpenFiles": [
+    "Преобразования объекта в примитивные типы.md",
+    "Б Методы работы с  Array.md",
     "Массивы.md",
     "Б Методы работы с String.md",
     "Б Методы работы с Number.md",
@@ -193,7 +195,6 @@
     "for of.md",
     "база/Логические операторы.md",
     "база/Примитивный тип данных.md",
-    "Преобразования объекта в примитивные типы.md",
     "база/Хинт.md",
     "база/Symbol.toPrimitive.md",
     "Symbol.md",
@@ -206,7 +207,6 @@
     "база/Функции/Function Declaration.md",
     "this.md",
     "Клонирование объектов.md",
-    "Оператор расширения.md",
     "база/Функции",
     "Тестирование",
     "база"
