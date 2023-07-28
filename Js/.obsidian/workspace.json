@@ -13,9 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с Number.md",
+                "file": "Б Методы работы с String.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "44bcc872eb2d821f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Массивы.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с Number.md",
+                "file": "Массивы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с Number.md",
+                "file": "Массивы.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с Number.md"
+                "file": "Массивы.md"
               }
             }
           },
@@ -166,11 +179,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1f70af09daa3e00d",
+  "active": "44bcc872eb2d821f",
   "lastOpenFiles": [
-    "база/Функции/Математические операторы.md",
     "Б Методы работы с String.md",
+    "Массивы.md",
     "Б Методы работы с Number.md",
+    "база/Функции/Математические операторы.md",
     "база/Преобразование типов.md",
     "база/Типы данных.md",
     "for in.md",
@@ -193,7 +207,6 @@
     "this.md",
     "Клонирование объектов.md",
     "Оператор расширения.md",
-    "база/Псевдомассив.md",
     "база/Функции",
     "Тестирование",
     "база"
