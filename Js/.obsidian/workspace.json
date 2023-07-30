@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "база/Функции/Стрелочная функция.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "база/Функции/Стрелочная функция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "база/Функции/Стрелочная функция.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с  Array.md"
+                "file": "база/Функции/Стрелочная функция.md"
               }
             }
           },
@@ -181,8 +181,13 @@
   },
   "active": "44bcc872eb2d821f",
   "lastOpenFiles": [
-    "Преобразования объекта в примитивные типы.md",
+    "база/Функции/Function Expression.md",
+    "база/Функции/Function Declaration.md",
+    "база/Функции/Стрелочная функция.md",
+    "база/Логические операции.md",
+    "база/Объявление переменной.md",
     "Б Методы работы с  Array.md",
+    "Преобразования объекта в примитивные типы.md",
     "Массивы.md",
     "Б Методы работы с String.md",
     "Б Методы работы с Number.md",
@@ -202,11 +207,6 @@
     "база/Объект.md",
     "Опциональная цепочка вопр..md",
     "new.md",
-    "база/Функции/Стрелочная функция.md",
-    "Тестирование/Mocha.md",
-    "база/Функции/Function Declaration.md",
-    "this.md",
-    "Клонирование объектов.md",
     "база/Функции",
     "Тестирование",
     "база"
