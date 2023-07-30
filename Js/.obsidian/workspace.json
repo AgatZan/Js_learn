@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Функции/Стрелочная функция.md",
-                "mode": "source",
+                "file": "база/Функции/Function Declaration.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Функции/Стрелочная функция.md",
+                "file": "база/Функции/Function Declaration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Функции/Стрелочная функция.md",
+                "file": "база/Функции/Function Declaration.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Функции/Стрелочная функция.md"
+                "file": "база/Функции/Function Declaration.md"
               }
             }
           },
@@ -181,9 +181,11 @@
   },
   "active": "44bcc872eb2d821f",
   "lastOpenFiles": [
-    "база/Функции/Function Expression.md",
-    "база/Функции/Function Declaration.md",
     "база/Функции/Стрелочная функция.md",
+    "база/Функции/Function Declaration.md",
+    "база/Математические операторы.md",
+    "база/Функции/Function Expression.md",
+    "Оператор расширения.md",
     "база/Логические операции.md",
     "база/Объявление переменной.md",
     "Б Методы работы с  Array.md",
@@ -191,7 +193,6 @@
     "Массивы.md",
     "Б Методы работы с String.md",
     "Б Методы работы с Number.md",
-    "база/Функции/Математические операторы.md",
     "база/Преобразование типов.md",
     "база/Типы данных.md",
     "for in.md",
@@ -206,7 +207,6 @@
     "база/Транспилер.md",
     "база/Объект.md",
     "Опциональная цепочка вопр..md",
-    "new.md",
     "база/Функции",
     "Тестирование",
     "база"

@@ -8,6 +8,9 @@ return something;
 
 параметрами могут быть любые [[Типы данных| типы данных]], включая [[callback функции]] 
 
+Если указать [[Оператор расширения|оператор расширения]] (...args)
+
+
 ```js
 function showMessage ( from, text = anotherFunction() ){
 // anotherFunction() выполнится только если не передан text
