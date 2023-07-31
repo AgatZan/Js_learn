@@ -10,3 +10,4 @@
 -  `.includes(item, from)` ищет item начиная с индекса from и возвращает true, если поиск успешен.
 - `.find( callback( item, index, array) )` - возвращает первый элемент массива, для которого callback выдаст true, если все false, то undefind.
 - `.findIndex( callback( item, index, array) )` - возвращает индекс первого элемента массива, для которого callback выдаст true, если все false, то -1.
+- `.findLastIndex( callback( item, index, array) )` - возвращает индекс первого элемента массива, ***поиск с конца***, для которого callback выдаст true, если все false, то -1.
