@@ -39,4 +39,5 @@
 ### Проверка на массив
 
 - `Array.isArray(arr)` - true => массив.
+- `.some( callback( item, index, array) )` - || для массива, если хоть 1 элемент даст для callback е
  
