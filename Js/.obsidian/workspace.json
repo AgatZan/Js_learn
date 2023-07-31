@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Функции/Function Declaration.md",
+                "file": "Б Методы работы с  Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Функции/Function Declaration.md",
+                "file": "Б Методы работы с  Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Функции/Function Declaration.md",
+                "file": "Б Методы работы с  Array.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Функции/Function Declaration.md"
+                "file": "Б Методы работы с  Array.md"
               }
             }
           },
@@ -181,8 +181,9 @@
   },
   "active": "44bcc872eb2d821f",
   "lastOpenFiles": [
-    "база/Функции/Стрелочная функция.md",
+    "Б Методы работы с String.md",
     "база/Функции/Function Declaration.md",
+    "база/Функции/Стрелочная функция.md",
     "база/Математические операторы.md",
     "база/Функции/Function Expression.md",
     "Оператор расширения.md",
@@ -191,7 +192,6 @@
     "Б Методы работы с  Array.md",
     "Преобразования объекта в примитивные типы.md",
     "Массивы.md",
-    "Б Методы работы с String.md",
     "Б Методы работы с Number.md",
     "база/Преобразование типов.md",
     "база/Типы данных.md",
