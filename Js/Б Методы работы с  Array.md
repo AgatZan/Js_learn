@@ -8,4 +8,5 @@
 	- не работает с NaN, возвращает -1
 - `.LastIndexOf(item, from)` - ищет item начиная from двигаясь в начало, если не найден, то -1
 -  `.includes(item, from)` ищет item начиная с индекса from и возвращает true, если поиск успешен.
-- `.find( callback( item, index`
+- `.find( callback( item, index, array) )` - возвращает первый элемент массива, для которого callback выдаст true, если все false, то undefind.
+- `.findIndex( callback( item, index, array) )` - возвращает индекс первого элемента массива, для которого callback выдаст true, если все false, то -1.
