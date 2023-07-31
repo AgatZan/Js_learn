@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/callback функции.md",
+                "file": "Б Методы работы с  Array.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/callback функции.md",
+                "file": "Б Методы работы с  Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/callback функции.md",
+                "file": "Б Методы работы с  Array.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/callback функции.md"
+                "file": "Б Методы работы с  Array.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "1f70af09daa3e00d",
   "lastOpenFiles": [
-    "Б Методы работы с  Array.md",
     "Б Методы работы с String.md",
+    "Б Методы работы с  Array.md",
+    "Б Методы работы с Number.md",
+    "база/callback функции.md",
     "база/Функции/Function Declaration.md",
     "база/Функции/Стрелочная функция.md",
     "база/Математические операторы.md",
@@ -179,7 +181,6 @@
     "база/Объявление переменной.md",
     "Преобразования объекта в примитивные типы.md",
     "Массивы.md",
-    "Б Методы работы с Number.md",
     "база/Преобразование типов.md",
     "база/Типы данных.md",
     "for in.md",
@@ -193,7 +194,6 @@
     "Symbol.md",
     "база/Транспилер.md",
     "база/Объект.md",
-    "Опциональная цепочка вопр..md",
     "база/Функции",
     "Тестирование",
     "база"
