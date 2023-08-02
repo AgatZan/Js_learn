@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с String.md",
+                "file": "Б Методы работы с  Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с String.md",
+                "file": "Б Методы работы с  Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с String.md",
+                "file": "Б Методы работы с  Array.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с String.md"
+                "file": "Б Методы работы с  Array.md"
               }
             }
           },
@@ -181,9 +181,9 @@
   },
   "active": "8aaabea5f703f049",
   "lastOpenFiles": [
+    "Б Методы работы с String.md",
     "Б Методы работы с  Array.md",
     "Б Методы работы с Number.md",
-    "Б Методы работы с String.md",
     "база/callback функции.md",
     "база/Функции/Function Declaration.md",
     "база/Функции/Стрелочная функция.md",
