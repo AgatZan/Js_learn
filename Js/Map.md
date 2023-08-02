@@ -48,4 +48,4 @@ alert( map.get('name') ); // John
 ```
 
 
- [Object.entries(obj)
+
