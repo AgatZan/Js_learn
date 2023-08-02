@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Протоколы перебора.md",
+                "file": "for of.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be11284488997c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Б Методы работы с  Array.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Протоколы перебора.md",
+                "file": "Б Методы работы с  Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Протоколы перебора.md",
+                "file": "Б Методы работы с  Array.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Протоколы перебора.md"
+                "file": "Б Методы работы с  Array.md"
               }
             }
           },
@@ -179,11 +191,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8aaabea5f703f049",
+  "active": "be11284488997c58",
   "lastOpenFiles": [
+    "база/Протоколы перебора.md",
     "for of.md",
-    "Б Методы работы с  Array.md",
     "Б Методы работы с String.md",
+    "Б Методы работы с  Array.md",
     "Б Методы работы с Number.md",
     "база/callback функции.md",
     "база/Функции/Function Declaration.md",
@@ -199,7 +212,6 @@
     "база/Типы данных.md",
     "for in.md",
     "Наследование через прототип.md",
-    "база/Протоколы перебора.md",
     "база/Логические операторы.md",
     "база/Примитивный тип данных.md",
     "база/Хинт.md",
