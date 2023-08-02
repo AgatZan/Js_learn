@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с  Array.md",
-                "mode": "preview",
+                "file": "Map.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "Map.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с  Array.md"
+                "file": "Map.md"
               }
             }
           },
@@ -193,8 +193,9 @@
   },
   "active": "be11284488997c58",
   "lastOpenFiles": [
-    "база/Псевдомассив.md",
     "Б Методы работы с  Array.md",
+    "Map.md",
+    "база/Псевдомассив.md",
     "база/Протоколы перебора.md",
     "Б Методы работы с String.md",
     "for of.md",
@@ -218,7 +219,6 @@
     "база/Хинт.md",
     "база/Symbol.toPrimitive.md",
     "Symbol.md",
-    "база/Транспилер.md",
     "база/Функции",
     "Тестирование",
     "база"
