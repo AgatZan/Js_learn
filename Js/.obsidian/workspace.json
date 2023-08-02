@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "база/Протоколы перебора.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "база/Протоколы перебора.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "база/Протоколы перебора.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с  Array.md"
+                "file": "база/Протоколы перебора.md"
               }
             }
           },
@@ -181,8 +181,9 @@
   },
   "active": "8aaabea5f703f049",
   "lastOpenFiles": [
-    "Б Методы работы с String.md",
+    "for of.md",
     "Б Методы работы с  Array.md",
+    "Б Методы работы с String.md",
     "Б Методы работы с Number.md",
     "база/callback функции.md",
     "база/Функции/Function Declaration.md",
@@ -199,7 +200,6 @@
     "for in.md",
     "Наследование через прототип.md",
     "база/Протоколы перебора.md",
-    "for of.md",
     "база/Логические операторы.md",
     "база/Примитивный тип данных.md",
     "база/Хинт.md",
