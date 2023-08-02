@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8aaabea5f703f049",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Б Методы работы с String.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,7 +179,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5698d76060d07f81",
+  "active": "8aaabea5f703f049",
   "lastOpenFiles": [
     "Б Методы работы с  Array.md",
     "Б Методы работы с Number.md",
