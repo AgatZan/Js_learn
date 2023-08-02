@@ -49,8 +49,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с  Array.md",
-                "mode": "source",
+                "file": "база/Псевдомассив.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "база/Псевдомассив.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "база/Псевдомассив.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с  Array.md"
+                "file": "база/Псевдомассив.md"
               }
             }
           },
@@ -193,10 +193,10 @@
   },
   "active": "be11284488997c58",
   "lastOpenFiles": [
-    "база/Протоколы перебора.md",
-    "for of.md",
-    "Б Методы работы с String.md",
     "Б Методы работы с  Array.md",
+    "база/Протоколы перебора.md",
+    "Б Методы работы с String.md",
+    "for of.md",
     "Б Методы работы с Number.md",
     "база/callback функции.md",
     "база/Функции/Function Declaration.md",
