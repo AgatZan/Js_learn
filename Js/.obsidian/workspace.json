@@ -49,9 +49,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Set.md",
+                "file": "Б Методы работы с  Array.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set.md",
+                "file": "Б Методы работы с  Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Set.md",
+                "file": "Б Методы работы с  Array.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Set.md"
+                "file": "Б Методы работы с  Array.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "be11284488997c58",
   "lastOpenFiles": [
-    "Map.md",
     "Set.md",
+    "Map.md",
     "new.md",
     "база/use strict.md",
     "база/Протоколы перебора.md",
