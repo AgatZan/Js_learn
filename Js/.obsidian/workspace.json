@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "WeakMap.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "WeakMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с  Array.md",
+                "file": "WeakMap.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с  Array.md"
+                "file": "WeakMap.md"
               }
             }
           },
@@ -193,12 +193,13 @@
   },
   "active": "be11284488997c58",
   "lastOpenFiles": [
+    "Б Методы работы с  Array.md",
+    "WeakMap.md",
     "Set.md",
     "Map.md",
     "new.md",
     "база/use strict.md",
     "база/Протоколы перебора.md",
-    "Б Методы работы с  Array.md",
     "база/Псевдомассив.md",
     "Б Методы работы с String.md",
     "for of.md",
@@ -218,7 +219,6 @@
     "for in.md",
     "Наследование через прототип.md",
     "база/Логические операторы.md",
-    "база/Примитивный тип данных.md",
     "база/Функции",
     "Тестирование",
     "база"
