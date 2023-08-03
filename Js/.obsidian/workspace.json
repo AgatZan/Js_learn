@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WeakSet.md",
+                "file": "Б Методы работы с  Array.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WeakSet.md",
+                "file": "Б Методы работы с  Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WeakSet.md",
+                "file": "Б Методы работы с  Array.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WeakSet.md"
+                "file": "Б Методы работы с  Array.md"
               }
             }
           },
@@ -193,8 +193,9 @@
   },
   "active": "be11284488997c58",
   "lastOpenFiles": [
-    "WeakMap.md",
+    "Б Методы работы с Number.md",
     "WeakSet.md",
+    "WeakMap.md",
     "Б Методы работы с  Array.md",
     "Set.md",
     "Map.md",
@@ -204,7 +205,6 @@
     "база/Псевдомассив.md",
     "Б Методы работы с String.md",
     "for of.md",
-    "Б Методы работы с Number.md",
     "база/callback функции.md",
     "база/Функции/Function Declaration.md",
     "база/Функции/Стрелочная функция.md",
