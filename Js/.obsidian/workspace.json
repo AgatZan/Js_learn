@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Swap.md",
+                "file": "Деструктурирующее присваивание.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swap.md",
+                "file": "Деструктурирующее присваивание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Swap.md",
+                "file": "Деструктурирующее присваивание.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swap.md"
+                "file": "Деструктурирующее присваивание.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "be11284488997c58",
   "lastOpenFiles": [
-    "Деструктурирующее присваивание.md",
+    "Операторы/Остаточный оператор.md",
     "Swap.md",
+    "Деструктурирующее присваивание.md",
     "WeakSet.md",
     "WeakMap.md",
     "Symbol.md",
@@ -176,7 +177,6 @@
     "Операторы/this.md",
     "Операторы/new.md",
     "Операторы/Оператор расширения.md",
-    "Операторы/Остаточный оператор.md",
     "Операторы/Опциональная цепочка вопр..md",
     "Операторы",
     "Преобразование/Преобразование объекта в массив.md",
