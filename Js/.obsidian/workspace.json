@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WeakSet.md",
+                "file": "Деструктурирующее присваивание.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WeakSet.md",
+                "file": "Деструктурирующее присваивание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WeakSet.md",
+                "file": "Деструктурирующее присваивание.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WeakSet.md"
+                "file": "Деструктурирующее присваивание.md"
               }
             }
           },
@@ -154,8 +154,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5698d76060d07f81",
+  "active": "be11284488997c58",
   "lastOpenFiles": [
+    "WeakSet.md",
+    "Деструктурирующее присваивание.md",
     "WeakMap.md",
     "Symbol.md",
     "Set.md",
@@ -179,12 +181,10 @@
     "Преобразование/Преобразование объекта в массив.md",
     "Операции и операторы над примитивами",
     "Преобразование",
-    "WeakSet.md",
     "база/use strict.md",
     "база/Протоколы перебора.md",
     "база/Псевдомассив.md",
     "база/callback функции.md",
-    "Функции/Function Declaration.md",
     "Функции",
     "Тестирование",
     "база"
