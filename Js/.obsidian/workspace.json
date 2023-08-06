@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деструктурирующее присваивание.md",
+                "file": "Swap.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Деструктурирующее присваивание.md",
+                "file": "Swap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Деструктурирующее присваивание.md",
+                "file": "Swap.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Деструктурирующее присваивание.md"
+                "file": "Swap.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "be11284488997c58",
   "lastOpenFiles": [
-    "WeakSet.md",
     "Деструктурирующее присваивание.md",
+    "Swap.md",
+    "WeakSet.md",
     "WeakMap.md",
     "Symbol.md",
     "Set.md",
@@ -184,7 +185,6 @@
     "база/use strict.md",
     "база/Протоколы перебора.md",
     "база/Псевдомассив.md",
-    "база/callback функции.md",
     "Функции",
     "Тестирование",
     "база"
