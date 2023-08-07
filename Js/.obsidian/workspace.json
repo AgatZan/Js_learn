@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Деструктурирующее присваивание.md",
+                "file": "JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Деструктурирующее присваивание.md",
+                "file": "JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Деструктурирующее присваивание.md",
+                "file": "JSON.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Деструктурирующее присваивание.md"
+                "file": "JSON.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "a83bc85922f20cfd",
   "lastOpenFiles": [
+    "Деструктурирующее присваивание.md",
     "Swap.md",
     "Set.md",
     "Map.md",
@@ -180,7 +181,6 @@
     "Symbol.md",
     "WeakMap.md",
     "Б Методы работы с  Array.md",
-    "Деструктурирующее присваивание.md",
     "Хак №1 Большое количество параметров в функции.md",
     "for of.md",
     "JSON.md",

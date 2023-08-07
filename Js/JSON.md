@@ -5,7 +5,7 @@
 
 - `JSON.stringify(value, replacer, space)` - преобразует в
 	- value - какой объект
-	- replacer - какие поля
+	- replacer - какие поля, прямое перечисление или функция отбора.
 	- space - доп. отступы
 - `JSON.parse` - преобразует из 
 
