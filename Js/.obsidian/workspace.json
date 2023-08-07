@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дата и время.md",
+                "file": "JSON.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Дата и время.md",
+                "file": "JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Дата и время.md",
+                "file": "JSON.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Дата и время.md"
+                "file": "JSON.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "be11284488997c58",
   "lastOpenFiles": [
-    "Б Методы работы с  Array.md",
     "Дата и время.md",
+    "JSON.md",
+    "Б Методы работы с  Array.md",
     "Хак №1 Большое количество параметров в функции.md",
     "Деструктурирующее присваивание.md",
     "Б Методы работы с Number.md",
@@ -182,7 +183,6 @@
     "Операторы/Оператор расширения.md",
     "Операторы/Опциональная цепочка вопр..md",
     "Операторы",
-    "Преобразование/Преобразование объекта в массив.md",
     "Операции и операторы над примитивами",
     "Преобразование",
     "Функции",
