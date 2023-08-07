@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Хак №1 Большое количество параметров в функции.md",
+                "file": "Б Методы работы с  Array.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Хак №1 Большое количество параметров в функции.md",
+                "file": "Б Методы работы с  Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Хак №1 Большое количество параметров в функции.md",
+                "file": "Б Методы работы с  Array.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Хак №1 Большое количество параметров в функции.md"
+                "file": "Б Методы работы с  Array.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "be11284488997c58",
   "lastOpenFiles": [
-    "Деструктурирующее присваивание.md",
     "Хак №1 Большое количество параметров в функции.md",
+    "Деструктурирующее присваивание.md",
     "Б Методы работы с  Array.md",
     "Б Методы работы с Number.md",
     "Сохранение конкретного поля в переменную.md",
