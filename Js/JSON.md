@@ -3,7 +3,10 @@
 
 В JS 2 метода 
 
-- `JSON.stringify` - преобразует в 
+- `JSON.stringify(value, replacer, space)` - преобразует в
+	- value - какой объект
+	- replacer - какие поля
+	- space - доп. отступы
 - `JSON.parse` - преобразует из 
 
 
@@ -20,6 +23,7 @@
 ```js
 meetup.place = room;      
 room.occupiedBy = meetup;
+JSON.stringify(meetup) // ERROR!!! Попытка закодировать циклическую ссылку
 ```
 
-
+С помощью параметра replacer, можно указать лишь те поля, которые будут закодированы, тем самым ошибки не будет
