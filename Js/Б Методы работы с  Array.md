@@ -53,5 +53,5 @@ alert(arr.pop()); // World (метод работает)
 
 - `Array.isArray(arr)` - true => массив.
 - `.some( callback( item, index, array) )` - || для массива, если хоть 1 элемент даст для callback true, то вернет true, иначе false.
-- `.some( callback( item, index, array) )` - && для массива, если  хоть 1 элемент даст для callback false, то вернет false, иначе true.
+- `.every( callback( item, index, array) )` - && для массива, если  хоть 1 элемент даст для callback false, то вернет false, иначе true.
  
