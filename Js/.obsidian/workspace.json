@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON.md",
+                "file": "JSON.stringify.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSON.md",
+                "file": "JSON.stringify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSON.md",
+                "file": "JSON.stringify.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSON.md"
+                "file": "JSON.stringify.md"
               }
             }
           },
@@ -169,10 +169,12 @@
   },
   "active": "a83bc85922f20cfd",
   "lastOpenFiles": [
+    "JSON.md",
+    "JSON.stringify.md",
+    "Map.md",
     "Деструктурирующее присваивание.md",
     "Swap.md",
     "Set.md",
-    "Map.md",
     "for in.md",
     "Массивы.md",
     "Методы Object.md",
@@ -183,7 +185,6 @@
     "Б Методы работы с  Array.md",
     "Хак №1 Большое количество параметров в функции.md",
     "for of.md",
-    "JSON.md",
     "Дата и время.md",
     "Б Методы работы с Number.md",
     "Сохранение конкретного поля в переменную.md",
@@ -194,7 +195,6 @@
     "Клонирование объектов.md",
     "Б Методы работы с String.md",
     "база/Объект.md",
-    "Операторы/this.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
