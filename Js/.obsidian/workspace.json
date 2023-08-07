@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSON.stringify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSON.stringify.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JSON.stringify.md"
-              }
+              "state": {}
             }
           },
           {
@@ -167,10 +163,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a83bc85922f20cfd",
+  "active": "664d7baf772ef387",
   "lastOpenFiles": [
-    "JSON.md",
     "JSON.stringify.md",
+    "conflict-files-obsidian-git.md",
+    "JSON.md",
     "Map.md",
     "Деструктурирующее присваивание.md",
     "Swap.md",
@@ -194,7 +191,6 @@
     "Наследование через прототип.md",
     "Клонирование объектов.md",
     "Б Методы работы с String.md",
-    "база/Объект.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
