@@ -62,5 +62,5 @@ let meetup = {
 room.occupiedBy = meetup; // room ссылается на meetup
 
 alert( JSON.stringify(meetup, ['title', 'participants', 'name', 'place', 'number']) );
-// {"title":"Conference","participants":[{name: "John"}, {name: "Alice"}],"place":{}}
+// {"title":"Conference","participants":[{name: "John"}, {name: "Alice"}],"place":{"number":23}}
 ```

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON.md",
+                "file": "Методы Object.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSON.md",
+                "file": "Методы Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSON.md",
+                "file": "Методы Object.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSON.md"
+                "file": "Методы Object.md"
               }
             }
           },
@@ -156,8 +156,11 @@
   },
   "active": "be11284488997c58",
   "lastOpenFiles": [
-    "Дата и время.md",
+    "база/Протоколы перебора.md",
+    "for of.md",
+    "Методы Object.md",
     "JSON.md",
+    "Дата и время.md",
     "Б Методы работы с  Array.md",
     "Хак №1 Большое количество параметров в функции.md",
     "Деструктурирующее присваивание.md",
@@ -170,7 +173,6 @@
     "Symbol.md",
     "Set.md",
     "Map.md",
-    "for of.md",
     "for in.md",
     "Таблицы совместимости.md",
     "Массивы.md",
@@ -180,8 +182,6 @@
     "база/Объект.md",
     "Операторы/this.md",
     "Операторы/new.md",
-    "Операторы/Оператор расширения.md",
-    "Операторы/Опциональная цепочка вопр..md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
