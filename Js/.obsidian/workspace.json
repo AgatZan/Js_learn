@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Map.md",
+                "file": "Методы Object.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a83bc85922f20cfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Деструктурирующее присваивание.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Map.md",
+                "file": "Деструктурирующее присваивание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Map.md",
+                "file": "Деструктурирующее присваивание.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Map.md"
+                "file": "Деструктурирующее присваивание.md"
               }
             }
           },
@@ -154,17 +167,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "be11284488997c58",
+  "active": "a83bc85922f20cfd",
   "lastOpenFiles": [
-    "база/Протоколы перебора.md",
-    "Map.md",
-    "Set.md",
     "Swap.md",
+    "Set.md",
+    "Map.md",
+    "for in.md",
+    "Массивы.md",
+    "Методы Object.md",
+    "Преобразование/Преобразование объекта в массив.md",
+    "база/Протоколы перебора.md",
     "Symbol.md",
     "WeakMap.md",
     "Б Методы работы с  Array.md",
-    "Массивы.md",
-    "Методы Object.md",
     "Деструктурирующее присваивание.md",
     "Хак №1 Большое количество параметров в функции.md",
     "for of.md",
@@ -174,14 +189,12 @@
     "Сохранение конкретного поля в переменную.md",
     "Операторы/Остаточный оператор.md",
     "WeakSet.md",
-    "for in.md",
     "Таблицы совместимости.md",
     "Наследование через прототип.md",
     "Клонирование объектов.md",
     "Б Методы работы с String.md",
     "база/Объект.md",
     "Операторы/this.md",
-    "Операторы/new.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
