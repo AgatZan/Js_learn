@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с String.md",
+                "file": "JSON.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cde4f9461692284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JSON.parse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с String.md",
+                "file": "JSON.parse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с String.md",
+                "file": "JSON.parse.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с String.md"
+                "file": "JSON.parse.md"
               }
             }
           },
@@ -167,9 +179,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a83bc85922f20cfd",
+  "active": "6cde4f9461692284",
   "lastOpenFiles": [
     "JSON.md",
+    "JSON.parse.md",
+    "Б Методы работы с String.md",
     "JSON.stringify.md",
     "conflict-files-obsidian-git.md",
     "Map.md",
@@ -193,8 +207,6 @@
     "WeakSet.md",
     "Таблицы совместимости.md",
     "Наследование через прототип.md",
-    "Клонирование объектов.md",
-    "Б Методы работы с String.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
