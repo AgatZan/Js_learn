@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON.md",
+                "file": "Б Методы работы с String.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSON.md",
+                "file": "Б Методы работы с String.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSON.md",
+                "file": "Б Методы работы с String.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSON.md"
+                "file": "Б Методы работы с String.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "a83bc85922f20cfd",
   "lastOpenFiles": [
-    "JSON.stringify.md",
     "JSON.md",
+    "JSON.stringify.md",
     "conflict-files-obsidian-git.md",
     "Map.md",
     "Деструктурирующее присваивание.md",
