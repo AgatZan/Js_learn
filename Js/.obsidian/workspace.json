@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON.stringify.md",
-                "mode": "preview",
+                "file": "JSON.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JSON.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JSON.md"
+              }
             }
           },
           {
@@ -163,11 +167,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "664d7baf772ef387",
+  "active": "a83bc85922f20cfd",
   "lastOpenFiles": [
     "JSON.stringify.md",
-    "conflict-files-obsidian-git.md",
     "JSON.md",
+    "conflict-files-obsidian-git.md",
     "Map.md",
     "Деструктурирующее присваивание.md",
     "Swap.md",
