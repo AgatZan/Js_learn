@@ -17,4 +17,9 @@ schedule = JSON.parse(schedule, function(key, value) {
   if (key == 'date') return new Date(value);
   return value;
 });
+
+/* schedele :
+1. 0: {title: 'Conference', date: Thu Nov 30 2017 15:00:00 GMT+0300 (Москва, стандартное время)}
+2. 1: {title: 'Birthday', date: Tue Apr 18 2017 15:00:00 GMT+0300 (Москва, стандартное время)}
+*/
 ```
