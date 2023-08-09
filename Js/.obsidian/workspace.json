@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON.parse.md",
+                "file": "Замыкание.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSON.parse.md",
+                "file": "Замыкание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSON.parse.md",
+                "file": "Замыкание.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSON.parse.md"
+                "file": "Замыкание.md"
               }
             }
           },
@@ -181,8 +181,9 @@
   },
   "active": "6cde4f9461692284",
   "lastOpenFiles": [
-    "JSON.md",
     "JSON.parse.md",
+    "Замыкание.md",
+    "JSON.md",
     "Б Методы работы с String.md",
     "JSON.stringify.md",
     "conflict-files-obsidian-git.md",
@@ -206,7 +207,6 @@
     "Операторы/Остаточный оператор.md",
     "WeakSet.md",
     "Таблицы совместимости.md",
-    "Наследование через прототип.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
