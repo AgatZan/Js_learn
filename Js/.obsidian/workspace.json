@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "база/Объявление переменной.md",
+                "file": "Глобальные переменные.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9630ace0d7ea0447",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глобальный объект.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "база/Объявление переменной.md",
+                "file": "Глобальный объект.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "база/Объявление переменной.md",
+                "file": "Глобальный объект.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "база/Объявление переменной.md"
+                "file": "Глобальный объект.md"
               }
             }
           },
@@ -179,8 +191,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "6cde4f9461692284",
+  "active": "9630ace0d7ea0447",
   "lastOpenFiles": [
+    "Глобальные переменные.md",
+    "Глобальный объект.md",
+    "база/Объявление переменной.md",
     "база/Объект.md",
     "Функции/Function Declaration.md",
     "Функции/Function Expression.md",
@@ -204,9 +219,6 @@
     "Map.md",
     "Swap.md",
     "Set.md",
-    "Преобразование/Преобразование объекта в массив.md",
-    "база/Протоколы перебора.md",
-    "Symbol.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
