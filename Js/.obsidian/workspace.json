@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Замыкание.md",
+                "file": "база/Объявление переменной.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Замыкание.md",
+                "file": "база/Объявление переменной.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Замыкание.md",
+                "file": "база/Объявление переменной.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Замыкание.md"
+                "file": "база/Объявление переменной.md"
               }
             }
           },
@@ -181,32 +181,32 @@
   },
   "active": "6cde4f9461692284",
   "lastOpenFiles": [
-    "JSON.parse.md",
+    "база/Объект.md",
+    "Функции/Function Declaration.md",
+    "Функции/Function Expression.md",
+    "Функции/Стрелочная функция.md",
+    "Дата и время.md",
+    "Деструктурирующее присваивание.md",
+    "Клонирование объектов.md",
+    "Массивы.md",
+    "Методы Object.md",
+    "Наследование через прототип.md",
+    "Сохранение конкретного поля в переменную.md",
+    "Таблицы совместимости.md",
+    "Хак №1 Большое количество параметров в функции.md",
+    "for in.md",
     "Замыкание.md",
+    "JSON.parse.md",
     "JSON.md",
     "Б Методы работы с String.md",
     "JSON.stringify.md",
     "conflict-files-obsidian-git.md",
     "Map.md",
-    "Деструктурирующее присваивание.md",
     "Swap.md",
     "Set.md",
-    "for in.md",
-    "Массивы.md",
-    "Методы Object.md",
     "Преобразование/Преобразование объекта в массив.md",
     "база/Протоколы перебора.md",
     "Symbol.md",
-    "WeakMap.md",
-    "Б Методы работы с  Array.md",
-    "Хак №1 Большое количество параметров в функции.md",
-    "for of.md",
-    "Дата и время.md",
-    "Б Методы работы с Number.md",
-    "Сохранение конкретного поля в переменную.md",
-    "Операторы/Остаточный оператор.md",
-    "WeakSet.md",
-    "Таблицы совместимости.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
