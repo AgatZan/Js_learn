@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Глобальные переменные.md",
+                "file": "Функции/NFE.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Глобальные переменные.md",
+                "file": "Функции/NFE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Глобальные переменные.md",
+                "file": "Функции/NFE.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Глобальные переменные.md"
+                "file": "Функции/NFE.md"
               }
             }
           },
@@ -193,8 +193,9 @@
   },
   "active": "9630ace0d7ea0447",
   "lastOpenFiles": [
-    "Глобальный объект.md",
     "Глобальные переменные.md",
+    "Функции/NFE.md",
+    "Глобальный объект.md",
     "база/Объявление переменной.md",
     "база/Объект.md",
     "Функции/Function Declaration.md",
@@ -218,7 +219,6 @@
     "conflict-files-obsidian-git.md",
     "Map.md",
     "Swap.md",
-    "Set.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
