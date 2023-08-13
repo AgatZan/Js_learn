@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setTimeout.md",
+                "file": "setInterval.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setTimeout.md",
+                "file": "setInterval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setTimeout.md",
+                "file": "setInterval.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setTimeout.md"
+                "file": "setInterval.md"
               }
             }
           },
@@ -205,8 +205,8 @@
   },
   "active": "8c62163fe6e786fd",
   "lastOpenFiles": [
-    "setInterval.md",
     "setTimeout.md",
+    "setInterval.md",
     "Замыкание.md",
     "Функции/New Function.md",
     "Функции/NFE.md",
