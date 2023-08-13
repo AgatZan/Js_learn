@@ -205,8 +205,9 @@
   },
   "active": "8c62163fe6e786fd",
   "lastOpenFiles": [
-    "Замыкание.md",
+    "setInterval.md",
     "setTimeout.md",
+    "Замыкание.md",
     "Функции/New Function.md",
     "Функции/NFE.md",
     "Глобальные переменные.md",
@@ -230,7 +231,6 @@
     "JSON.md",
     "Б Методы работы с String.md",
     "JSON.stringify.md",
-    "conflict-files-obsidian-git.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
