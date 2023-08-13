@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Функции/NFE.md",
+                "file": "Функции/New Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c62163fe6e786fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Замыкание.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Функции/NFE.md",
+                "file": "Замыкание.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Функции/NFE.md",
+                "file": "Замыкание.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Функции/NFE.md"
+                "file": "Замыкание.md"
               }
             }
           },
@@ -191,10 +203,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9630ace0d7ea0447",
+  "active": "8c62163fe6e786fd",
   "lastOpenFiles": [
-    "Глобальные переменные.md",
+    "Функции/New Function.md",
     "Функции/NFE.md",
+    "Глобальные переменные.md",
     "Глобальный объект.md",
     "база/Объявление переменной.md",
     "база/Объект.md",
@@ -218,7 +231,6 @@
     "JSON.stringify.md",
     "conflict-files-obsidian-git.md",
     "Map.md",
-    "Swap.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
