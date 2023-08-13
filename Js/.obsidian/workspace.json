@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Хак №2 Список аргументов в массив.md",
+                "file": "setInterval.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Хак №2 Список аргументов в массив.md",
+                "file": "setInterval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Хак №2 Список аргументов в массив.md",
+                "file": "setInterval.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Хак №2 Список аргументов в массив.md"
+                "file": "setInterval.md"
               }
             }
           },
@@ -205,9 +205,9 @@
   },
   "active": "8c62163fe6e786fd",
   "lastOpenFiles": [
+    "Хак №2 Список аргументов в массив.md",
     "Б Методы работы с Function.md",
     "Б Методы работы с  Array.md",
-    "Хак №2 Список аргументов в массив.md",
     "setTimeout.md",
     "setInterval.md",
     "Замыкание.md",
