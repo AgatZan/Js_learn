@@ -1,1 +1,3 @@
-setTimeout(func, delay, )
+setTimeout(func, delay, …argsOfF)
+
+Вызвать функцию через время. delay - по умолчанию 0, но если не указать, код выполнится после других
