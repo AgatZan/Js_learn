@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setTimeout.md",
+                "file": "Хак №2 Список аргументов в массив.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setTimeout.md",
+                "file": "Хак №2 Список аргументов в массив.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setTimeout.md",
+                "file": "Хак №2 Список аргументов в массив.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setTimeout.md"
+                "file": "Хак №2 Список аргументов в массив.md"
               }
             }
           },
@@ -205,8 +205,9 @@
   },
   "active": "8c62163fe6e786fd",
   "lastOpenFiles": [
-    "setInterval.md",
     "setTimeout.md",
+    "Хак №2 Список аргументов в массив.md",
+    "setInterval.md",
     "Замыкание.md",
     "Функции/New Function.md",
     "Функции/NFE.md",
@@ -230,7 +231,6 @@
     "JSON.parse.md",
     "JSON.md",
     "Б Методы работы с String.md",
-    "JSON.stringify.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
