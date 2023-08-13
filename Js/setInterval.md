@@ -5,7 +5,7 @@ setInterval(func, delay, …argsOfF)
 Реализация через [[setTimeout]]
 
 ```js
-setTimeout(function f{
+let s = setTimeout(function f{
 doSomething();
 setTimeout(f,100)
 }, 100)
