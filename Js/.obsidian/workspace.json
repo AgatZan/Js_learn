@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "setInterval.md",
+                "file": "Б Методы работы с Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "setInterval.md",
+                "file": "Б Методы работы с Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "setInterval.md",
+                "file": "Б Методы работы с Function.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "setInterval.md"
+                "file": "Б Методы работы с Function.md"
               }
             }
           },
@@ -205,11 +205,11 @@
   },
   "active": "8c62163fe6e786fd",
   "lastOpenFiles": [
+    "setInterval.md",
     "Хак №2 Список аргументов в массив.md",
     "Б Методы работы с Function.md",
     "Б Методы работы с  Array.md",
     "setTimeout.md",
-    "setInterval.md",
     "Замыкание.md",
     "Функции/New Function.md",
     "Функции/NFE.md",
