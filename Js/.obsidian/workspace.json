@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON.md",
+                "file": "JSON/JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "JSON/JSON.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "JSON/JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "JSON/JSON.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с Object.md"
+                "file": "JSON/JSON.md"
               }
             }
           },
@@ -215,10 +215,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "255b79ae064241e0",
+  "active": "5698d76060d07f81",
   "lastOpenFiles": [
-    "Флаги свойств.md",
+    "JSON",
+    "JSON/JSON.stringify.md",
+    "JSON/JSON.md",
+    "for of.md",
+    "JSON/JSON.parse.md",
     "Б Методы работы с Object.md",
+    "Флаги свойств.md",
     "Б Методы работы с  Array.md",
     "Б Методы работы с Function.md",
     "setInterval.md",
@@ -238,11 +243,6 @@
     "Деструктурирующее присваивание.md",
     "Клонирование объектов.md",
     "Массивы.md",
-    "Методы Object.md",
-    "Наследование через прототип.md",
-    "Сохранение конкретного поля в переменную.md",
-    "Таблицы совместимости.md",
-    "Хак №1 Большое количество параметров в функции.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
