@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "255b79ae064241e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Б Методы работы с Object.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -203,11 +215,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8c62163fe6e786fd",
+  "active": "255b79ae064241e0",
   "lastOpenFiles": [
-    "Б Методы работы с  Array.md",
-    "Б Методы работы с Object.md",
     "Флаги свойств.md",
+    "Б Методы работы с Object.md",
+    "Б Методы работы с  Array.md",
     "Б Методы работы с Function.md",
     "setInterval.md",
     "Хак №2 Список аргументов в массив.md",
