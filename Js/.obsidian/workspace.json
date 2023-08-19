@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с Function.md",
+                "file": "Флаги свойств.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с Function.md",
+                "file": "Флаги свойств.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с Function.md",
+                "file": "Флаги свойств.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с Function.md"
+                "file": "Флаги свойств.md"
               }
             }
           },
@@ -205,9 +205,10 @@
   },
   "active": "8c62163fe6e786fd",
   "lastOpenFiles": [
+    "Б Методы работы с Function.md",
+    "Флаги свойств.md",
     "setInterval.md",
     "Хак №2 Список аргументов в массив.md",
-    "Б Методы работы с Function.md",
     "Б Методы работы с  Array.md",
     "setTimeout.md",
     "Замыкание.md",
@@ -230,7 +231,6 @@
     "Таблицы совместимости.md",
     "Хак №1 Большое количество параметров в функции.md",
     "for in.md",
-    "JSON.parse.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
