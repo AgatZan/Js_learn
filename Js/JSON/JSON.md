@@ -5,7 +5,7 @@
 
 - `JSON.stringify(value, replacer, space)` - [[JSON.stringify|преобразует в]]
 	- value - какой объект
-	- replacer - какие поля( массив ключей или функция отбора их).
+	- replacer - какие поля( массив ключей или функция отбора их). по умолчанию все (null).
 	- space - доп. отступы
 - `JSON.parse` - [[JSON.parse|преобразует из]]
 	- reviver - функция вызываемая, для каждой пары [[Методы Object|Object.entires]]

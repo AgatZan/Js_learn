@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSON/JSON.md",
+                "file": "Б Методы работы с Object.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSON/JSON.md",
+                "file": "Б Методы работы с Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JSON/JSON.md",
+                "file": "Б Методы работы с Object.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSON/JSON.md"
+                "file": "Б Методы работы с Object.md"
               }
             }
           },
@@ -215,11 +215,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5698d76060d07f81",
+  "active": "255b79ae064241e0",
   "lastOpenFiles": [
+    "JSON/JSON.md",
     "JSON",
     "JSON/JSON.stringify.md",
-    "JSON/JSON.md",
     "for of.md",
     "JSON/JSON.parse.md",
     "Б Методы работы с Object.md",
