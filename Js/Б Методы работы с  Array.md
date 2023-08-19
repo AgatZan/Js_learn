@@ -10,7 +10,7 @@ let arrayLike = {
 let arr = Array.from(arrayLike); // (*)  
 alert(arr.pop()); // World (метод работает)
 ```
-
+- `Array.isArray(test)` - возвращает true - если тест это массив
 ### Добавление\удаление 
 - `arr.push(...items)` – добавляет элементы в конец,
 - `arr.pop()` – извлекает элемент из конца,

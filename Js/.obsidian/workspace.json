@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Флаги свойств.md",
+                "file": "Б Методы работы с Object.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Флаги свойств.md",
+                "file": "Б Методы работы с Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Флаги свойств.md",
+                "file": "Б Методы работы с Object.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Флаги свойств.md"
+                "file": "Б Методы работы с Object.md"
               }
             }
           },
@@ -205,11 +205,12 @@
   },
   "active": "8c62163fe6e786fd",
   "lastOpenFiles": [
-    "Б Методы работы с Function.md",
+    "Б Методы работы с  Array.md",
+    "Б Методы работы с Object.md",
     "Флаги свойств.md",
+    "Б Методы работы с Function.md",
     "setInterval.md",
     "Хак №2 Список аргументов в массив.md",
-    "Б Методы работы с  Array.md",
     "setTimeout.md",
     "Замыкание.md",
     "Функции/New Function.md",
@@ -230,7 +231,6 @@
     "Сохранение конкретного поля в переменную.md",
     "Таблицы совместимости.md",
     "Хак №1 Большое количество параметров в функции.md",
-    "for in.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
