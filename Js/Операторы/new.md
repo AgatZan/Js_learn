@@ -3,3 +3,11 @@
 При применении new, [[this]] получит контекст нового объекта. 
 
 `new.target` - возвращает undefind, если функция вызвана без new.
+
+### Пример функции-конструктор
+```js 
+function User(name, money){
+	this.name=name;
+	this.money=money
+}
+```

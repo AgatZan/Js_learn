@@ -30,6 +30,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e2894cf9391433b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Операторы/new.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd83821037d07cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Операторы/new.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -169,13 +193,14 @@
   },
   "active": "ab84208dccf6ffe2",
   "lastOpenFiles": [
+    "Операторы/new.md",
+    "Наследование через прототип.md",
     "for in.md",
     "Б Методы работы с Object.md",
     "Функции/New Function.md",
     "Глобальные переменные.md",
     "JSON/JSON.md",
     "Методы Object.md",
-    "Наследование через прототип.md",
     "Геттеры и сеттеры.md",
     "Операторы/this.md",
     "Сохранение конкретного поля в переменную.md",
@@ -196,7 +221,6 @@
     "Глобальный объект.md",
     "база/Объявление переменной.md",
     "база/Объект.md",
-    "Функции/Function Declaration.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
