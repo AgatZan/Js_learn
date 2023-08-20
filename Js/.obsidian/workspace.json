@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Б Методы работы с Object.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с Object.md",
-                "mode": "preview",
+                "file": "Флаги свойств.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,12 +190,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ab84208dccf6ffe2",
+  "active": "255b79ae064241e0",
   "lastOpenFiles": [
+    "Флаги свойств.md",
+    "Хаки/Хак №3 копирование с учетом флагов.md",
+    "Б Методы работы с Object.md",
     "Массивы.md",
     "Методы Object.md",
     "Клонирование объектов.md",
-    "Б Методы работы с Object.md",
     "JSON/JSON.md",
     "setTimeout.md",
     "Наследование через прототип.md",
@@ -208,9 +209,7 @@
     "Операторы/this.md",
     "Сохранение конкретного поля в переменную.md",
     "Хаки",
-    "Хаки/Хак №3 копирование с учетом флагов.md",
     "Б Методы работы с  Array.md",
-    "Флаги свойств.md",
     "JSON",
     "JSON/JSON.stringify.md",
     "for of.md",
