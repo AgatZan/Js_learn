@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "Геттеры и сеттеры.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "Геттеры и сеттеры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "Геттеры и сеттеры.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с Object.md"
+                "file": "Геттеры и сеттеры.md"
               }
             }
           },
@@ -231,6 +231,8 @@
   "lastOpenFiles": [
     "Наследование через прототип.md",
     "Геттеры и сеттеры.md",
+    "Операторы/this.md",
+    "Сохранение конкретного поля в переменную.md",
     "Б Методы работы с Object.md",
     "Методы Object.md",
     "Хаки",
@@ -255,8 +257,6 @@
     "база/Объект.md",
     "Функции/Function Declaration.md",
     "Функции/Function Expression.md",
-    "Функции/Стрелочная функция.md",
-    "Дата и время.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
