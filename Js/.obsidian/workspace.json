@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Операторы/new.md",
+                "file": "for in.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Операторы/new.md",
+                "file": "for in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Операторы/new.md",
+                "file": "for in.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Операторы/new.md"
+                "file": "for in.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "e2894cf9391433b4",
   "lastOpenFiles": [
+    "Операторы/new.md",
     "Флаги свойств.md",
     "Деструктурирующее присваивание.md",
     "Б Методы работы с Object.md",
@@ -179,7 +180,6 @@
     "JSON/JSON.md",
     "setTimeout.md",
     "Наследование через прототип.md",
-    "Операторы/new.md",
     "for in.md",
     "Функции/New Function.md",
     "Глобальные переменные.md",
