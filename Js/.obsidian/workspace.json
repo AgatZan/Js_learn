@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "Клонирование объектов.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "Клонирование объектов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "Клонирование объектов.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с Object.md"
+                "file": "Клонирование объектов.md"
               }
             }
           },
@@ -192,9 +192,9 @@
   },
   "active": "255b79ae064241e0",
   "lastOpenFiles": [
+    "Б Методы работы с Object.md",
     "Флаги свойств.md",
     "Хаки/Хак №3 копирование с учетом флагов.md",
-    "Б Методы работы с Object.md",
     "Массивы.md",
     "Методы Object.md",
     "Клонирование объектов.md",
