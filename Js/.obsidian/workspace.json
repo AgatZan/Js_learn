@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Классы.md",
+                "file": "Наследование/Наследование классов.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Классы.md",
+                "file": "Наследование/Наследование классов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Классы.md",
+                "file": "Наследование/Наследование классов.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Классы.md"
+                "file": "Наследование/Наследование классов.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "e2894cf9391433b4",
   "lastOpenFiles": [
-    "for in.md",
+    "Наследование",
+    "Наследование/Наследование классов.md",
     "Классы.md",
+    "for in.md",
     "Операторы/new.md",
     "Флаги свойств.md",
     "Деструктурирующее присваивание.md",
@@ -181,7 +183,7 @@
     "Методы Object.md",
     "JSON/JSON.md",
     "setTimeout.md",
-    "Наследование через прототип.md",
+    "Наследование/Наследование через прототип.md",
     "Функции/New Function.md",
     "Глобальные переменные.md",
     "Геттеры и сеттеры.md",
@@ -194,8 +196,6 @@
     "for of.md",
     "JSON/JSON.parse.md",
     "Б Методы работы с Function.md",
-    "setInterval.md",
-    "Хаки/Хак №2 Список аргументов в массив.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",
