@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "255b79ae064241e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Б Методы работы с Object.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab84208dccf6ffe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Флаги свойств.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e2894cf9391433b4",
             "type": "leaf",
             "state": {
@@ -84,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ключ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "Операторы/new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Б Методы работы с Object.md",
+                "file": "Операторы/new.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Б Методы работы с Object.md"
+                "file": "Операторы/new.md"
               }
             }
           },
@@ -191,11 +166,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7fb9d2d51ef980e7",
+  "active": "e2894cf9391433b4",
   "lastOpenFiles": [
-    "Клонирование объектов.md",
-    "Б Методы работы с Object.md",
     "Флаги свойств.md",
+    "Деструктурирующее присваивание.md",
+    "Б Методы работы с Object.md",
+    "база/Объект.md",
+    "Клонирование объектов.md",
     "Хаки/Хак №3 копирование с учетом флагов.md",
     "Массивы.md",
     "Методы Object.md",
@@ -219,8 +196,6 @@
     "setInterval.md",
     "Хаки/Хак №2 Список аргументов в массив.md",
     "Замыкание.md",
-    "Функции/NFE.md",
-    "Глобальный объект.md",
     "Операторы",
     "Операции и операторы над примитивами",
     "Преобразование",

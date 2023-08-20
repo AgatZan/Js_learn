@@ -19,7 +19,7 @@
 - `Object.keys()` - массив ключей
 - `Object.values()` - массив значений
 - `Object.OwnPropertySymbols(obj)` - возвращает массив [[Symbol|символов]]
-- `Object.OwnPropertyNames(obj)` - возвращает массив строковых ключей
+- `Object.OwnPropertyNames(obj)` - возвращает массив [[Объект#Символьные ключи|строковых ключей]]
 
 
 
