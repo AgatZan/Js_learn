@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Наследование через прототип.md",
+                "file": "setTimeout.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Наследование через прототип.md",
+                "file": "setTimeout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Наследование через прототип.md",
+                "file": "setTimeout.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Наследование через прототип.md"
+                "file": "setTimeout.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "ab84208dccf6ffe2",
   "lastOpenFiles": [
-    "Операторы/new.md",
     "Наследование через прототип.md",
+    "Операторы/new.md",
     "for in.md",
     "Б Методы работы с Object.md",
     "Функции/New Function.md",
