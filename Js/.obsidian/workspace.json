@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ключ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "255b79ae064241e0",
+  "active": "7fb9d2d51ef980e7",
   "lastOpenFiles": [
     "Клонирование объектов.md",
     "Б Методы работы с Object.md",

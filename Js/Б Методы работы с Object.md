@@ -18,7 +18,8 @@
 - `Object.entries()` - возвращает пары `[имя_свойва,значение]` ^952881
 - `Object.keys()` - массив ключей
 - `Object.values()` - массив значений
-
+- `Object.OwnPropertySymbols(obj)` - возвращает массив [[Symbol|символов]]
+- `Object.OwnPropertyNames(obj)` - возвращает массив строковых ключей
 
 
 
