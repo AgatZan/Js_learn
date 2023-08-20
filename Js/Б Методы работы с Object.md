@@ -6,8 +6,9 @@
 	- если ключ есть, то перезапишутся флаги, которые соответствуют переданным
 - `Object.defineProperys(obj, descriptor)` - изменяет множество ключей объекта
 	- тут descriptor - объект, у которого ключи это имена свойства `obj`, а их значения это [[Флаги свойств#Объект-флаг|объект  флага]] или [[Геттеры и сеттеры|геттеры и сеттеры]]
-- `Object.getPrototypeOf(obj)` - ^4468e6
-- `Object.setPrototypeOf(obj)` - ^a7e62b
+- `Object.create(proto)` - создает объект, у которого прототип proto
+- `Object.getPrototypeOf(obj)` - Возвращаетсвойство `[[Prototype]]` объекта `obj`. ^4468e6
+- `Object.setPrototypeOf(obj, proto)` - устанавливает значение  `[[Prototype]]` объекта `obj` как `proto`. ^a7e62b
 
 
 
@@ -22,4 +23,4 @@
 
 
 ### Клонирование
-- Object.assign(to, from1, from2,...,fromN);
+- `Object.assign(to, from1, from2,...,fromN)` - записывает свойства from1-N в to ^927cfb
