@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Наследование/Наследование классов.md",
+                "file": "Б Методы работы с Object.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Наследование/Наследование классов.md",
+                "file": "Б Методы работы с Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Наследование/Наследование классов.md",
+                "file": "Б Методы работы с Object.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Наследование/Наследование классов.md"
+                "file": "Б Методы работы с Object.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "8a26bdd53a988649",
   "lastOpenFiles": [
-    "Функции/Стрелочная функция.md",
     "Наследование/Наследование классов.md",
+    "Функции/Стрелочная функция.md",
     "Наследование",
     "Классы.md",
     "for in.md",
